@@ -1,1 +1,2 @@
-publeic static void main
+public static void main(String []ages){
+} 
